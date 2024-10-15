@@ -5,14 +5,12 @@ import { IoPlay } from "react-icons/io5";
 import parser from "html-react-parser";
 
 export default function HeaderSurah({
-  nomor,
   nama,
   namaLatin,
   arti,
   jumlahAyat,
   tempatTurun,
   deskripsi,
-  audioFull,
 }: SurahType) {
   const [isOnInfo, setIsOnInfo] = useState(false);
 

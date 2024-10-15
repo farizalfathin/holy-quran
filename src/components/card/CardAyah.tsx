@@ -4,19 +4,16 @@ import {
   IoPlayOutline,
 } from "react-icons/io5";
 import Tooltip from "../others/Tooltip";
-import { AudioType } from "@/types/surah";
 
 export default function CardAyah({
   nomorAyat,
   teksArab,
   teksIndonesia,
-  audio,
   handleOpenTafsir,
 }: {
   nomorAyat: number;
   teksArab: string;
   teksIndonesia: string;
-  audio: AudioType;
   handleOpenTafsir: (ayat: number) => void;
 }) {
   return (
