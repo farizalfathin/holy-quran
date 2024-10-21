@@ -12,7 +12,7 @@ export default function Header() {
           <MenuDrawer />
           <Link to={"/"}>
             <h3 className="text-2xl text-secondary-800 font-logo font-semibold">
-              <span className="text-3xl font-extrabold">H</span>oly
+              <span className="text-3xl font-extrabold">EH</span>oly
               <span className="text-3xl font-extrabold">Q</span>uran
             </h3>
           </Link>

@@ -4,14 +4,14 @@ export default function Footer() {
       <div className="w-full max-w-screen-lg mx-auto flex flex-col gap-12 px-6 pt-4 pb-8 md:flex-row md:gap-14">
         <div className="flex-1">
           <h3 className="text-2xl">
-            <span className="font-logo font-semibold">holy.quran</span>
+            <span className="font-logo font-semibold">eholyquran</span>
             .vercel.app
           </h3>
           <p className="text-lg font-semibold">
             Mempelajari dan Mengajarkan Al-Qur’an
           </p>
           <p className="text-secondary-500">
-            <span className="font-logo">Holy Quran</span> adalah situs penyedia
+            <span className="font-logo">EHoly-Quran</span> adalah situs penyedia
             Al-Qur’an online untuk mempermudah setiap orang yang ingin membaca
             Al-Qur’an dan mempelajarinya. Semoga Allah SWT memberikan kemudahan
             bagi orang orang mempelajari Al-Qur’an

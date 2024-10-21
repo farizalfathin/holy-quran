@@ -79,7 +79,9 @@ export default function MenuDrawer() {
         animate={isOpen ? "visible" : "hidden"}
         exit="exit">
         <div className="w-full flex justify-between items-start px-4 py-3 mb-4 border-b border-secondary-200">
-          <h2 className="font-bold text-black font-logo text-2xl">Quranii</h2>
+          <h2 className="font-bold text-black font-logo text-2xl">
+            EHolyQuran
+          </h2>
           <Tooltip text="Close" position="right">
             <button
               className="text-xl p-2 rounded-full hover:bg-secondary-200"

@@ -15,8 +15,7 @@ export default function Heroes() {
           src="https://img.pikbest.com/element_our/20230308/bg/fed22d1b783b0.png!bw700"
           alt=""
         />
-        <h1 className="text-3xl font-semibold font-logo">Quranii</h1>
-        <p className="text-lg font-medium">The Holy Quran</p>
+        <p className="text-xl font-medium">The Holy Quran</p>
       </div>
     </div>
   );
